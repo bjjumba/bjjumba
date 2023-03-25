@@ -1,16 +1,11 @@
 # Hi there,I am Benji 😃 
 
+<div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bjjumba&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjjumba&layout=compact"/>:-
-<br><br>
-
-
-
-
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjjumba&layout=compact"/>
+</div>
 
 ## FrameWorks 
-And Libraries
 
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
