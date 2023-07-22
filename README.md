@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benji</h1>
+<h1 align="center">Hi 👋, I'm Jjumba Eric Benjamin</h1>
 <h3 align="center">A passionate Fullstack developer from Uganda</h3>
 
 
