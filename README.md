@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from Uganda</h3>
 
 
-- 🌱 I’m currently learning **Laravel, C#, .NET Core**
+- 🌱 I’m currently learning **C#, .NET Core**
 
 - 📫 How to reach me **benjaminjjumba@gmail.com**
 
